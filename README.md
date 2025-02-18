@@ -1,24 +1,34 @@
-# To-Do-List-App
-A simple and user-friendly To-Do List App built with HTML, CSS, JavaScript, Node.js, and MongoDB. This app allows users to create, view, and delete tasks. Each user has their own private to-do list, ensuring that tasks are secure and personalized.
+# To-Do List App
 
-#Features
-User Authentication: Users can register, log in, and log out.
+A simple and user-friendly **To-Do List App** built with **HTML**, **CSS**, **JavaScript**, **Node.js**, and **MongoDB**. This app allows users to create, view, and delete tasks. Each user has their own private to-do list, ensuring that tasks are secure and personalized.
 
-Add Tasks: Easily add new tasks to your to-do list.
+## Features
+- **User Authentication**: Users can register, log in, and log out.
+- **Add Tasks**: Easily add new tasks to your to-do list.
+- **Delete Tasks**: Remove tasks you no longer need.
+- **Private Tasks**: Each user’s tasks are private and only visible to them.
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices.
 
-Delete Tasks: Remove tasks you no longer need.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB (hosted on MongoDB Atlas)
+- **Authentication**: JSON Web Tokens (JWT)
+- **Deployment**: Render (for 24/7 accessibility)
 
-Private Tasks: Each user’s tasks are private and only visible to them.
+## How to Use
+1. **Register**: Create a new account by providing a username and password.
+2. **Log In**: Log in with your credentials.
+3. **Add Tasks**: Type a task in the input field and click "Add".
+4. **Delete Tasks**: Click the "Delete" button next to a task to remove it.
 
-Responsive Design: Works seamlessly on both desktop and mobile devices.
+## Live Demo
+Check out the live version of the app: [To-Do List App on Render](https://todo-app.onrender.com)
 
-#Technologies Used
-Frontend: HTML, CSS, JavaScript
+## Installation
+To run this project locally, follow these steps:
 
-Backend: Node.js, Express
-
-Database: MongoDB (hosted on MongoDB Atlas)
-
-Authentication: JSON Web Tokens (JWT)
-
-Deployment: Render (for 24/7 accessibility)
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+   cd todo-list-app
