@@ -24,11 +24,3 @@ A simple and user-friendly **To-Do List App** built with **HTML**, **CSS**, **Ja
 
 ## Live Demo
 Check out the live version of the app: [To-Do List App on Render](https://todo-app.onrender.com)
-
-## Installation
-To run this project locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
